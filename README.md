@@ -17,5 +17,3 @@ A beginner-friendly project to explore C/C++ programming, memory architecture, a
 1. Ensure `g++` is installed: `sudo apt install g++`.
 2. Run the test script: `bash test_memory_intro.sh`.
 
-## License
-MIT License
